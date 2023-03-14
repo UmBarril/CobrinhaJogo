@@ -1,0 +1,6 @@
+joao: 2
+marta: 20
+teste: 1
+aaaaaa: 0
+Joao: 8
+Lucas: 0
